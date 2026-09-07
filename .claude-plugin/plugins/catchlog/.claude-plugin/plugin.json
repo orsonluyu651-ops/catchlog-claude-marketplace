@@ -1,0 +1,8 @@
+{
+  "name": "catchlog",
+  "version": "1.0.0",
+  "description": "Claude Code plugin for developing the CatchLog web application",
+  "author": {
+    "name": "orsonluyu651-ops"
+  }
+}
