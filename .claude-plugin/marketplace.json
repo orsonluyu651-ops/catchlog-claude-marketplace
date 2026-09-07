@@ -1,0 +1,16 @@
+{
+  "name": "catchlog-marketplace",
+  "owner": {
+    "name": "orsonluyu651-ops"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for CatchLog"
+  },
+  "plugins": [
+    {
+      "name": "catchlog",
+      "source": "./plugins/catchlog",
+      "description": "CatchLog development plugin"
+    }
+  ]
+}
